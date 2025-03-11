@@ -1,9 +1,10 @@
 package leetcodeEasy;
 
 /**
- * Author: [Your Name]
+ * Author: Sachin Bhardwaj
  * Date: March 10, 2025
- *
+ * 
+ * LeetCode - 338
  * Problem: Given an array nums containing n distinct numbers in the range [0, n], 
  * return the missing number.
  *
